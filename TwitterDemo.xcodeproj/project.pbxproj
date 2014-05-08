@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		24334BD8191B8B9E001BE774 /* RSOAuthEngine.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 24334BD7191B8B9E001BE774 /* RSOAuthEngine.podspec */; };
 		5B41240E19129582001F575F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B41240D19129582001F575F /* Default-568h@2x.png */; };
 		5B412410191295DE001F575F /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B41240F191295DE001F575F /* ImageIO.framework */; };
 		5B9770C8149789C200791728 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B9770C7149789C200791728 /* UIKit.framework */; };
@@ -37,6 +38,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		24334BD7191B8B9E001BE774 /* RSOAuthEngine.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RSOAuthEngine.podspec; sourceTree = "<group>"; };
 		5B41240D19129582001F575F /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
 		5B41240F191295DE001F575F /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
 		5B9770C3149789C200791728 /* TwitterDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -104,6 +106,7 @@
 		5B9770B8149789C200791728 = {
 			isa = PBXGroup;
 			children = (
+				24334BD7191B8B9E001BE774 /* RSOAuthEngine.podspec */,
 				5B9770F014978CC700791728 /* MKNetworkKit */,
 				5B97711314978FD300791728 /* RSOAuthEngine */,
 				5B9770CD149789C200791728 /* TwitterDemo */,
@@ -280,6 +283,7 @@
 				5B9771201497912A00791728 /* WebViewController.xib in Resources */,
 				5BAA64D61497D8CB00ED569D /* logo_cube_57.png in Resources */,
 				5BAA64D81497D8D300ED569D /* logo_cube_114.png in Resources */,
+				24334BD8191B8B9E001BE774 /* RSOAuthEngine.podspec in Resources */,
 				5B41240E19129582001F575F /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
